@@ -1,0 +1,147 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+.navbar{
+    font-size: 16px;
+    line-height: 19px;
+    color: #F1F1F1;
+    display: flex;
+    width: auto;
+    height: 61px;
+    background: #7740ED;
+}
+
+.navbar h3{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.navbar img{
+    width: 24px;
+    height: 27px;
+    padding-left: 83%;
+    padding-top: 15px;
+}
+
+.titulo_input{
+    font-size: 12px;
+}
+
+.formulario{
+
+}
+
+.input{
+    border: none;
+}
+
+.input_img{
+    margin-top: 15px;
+    width: 328px;
+    height: 39px;
+    align-items: center;
+    display: flex;
+    border: 1px solid #7740ED;
+    border-radius: 10px;
+    color: #CECECE;
+    padding-left: 12px;
+}
+
+.body{
+    justify-content: center;
+    display: grid;
+}
+
+.campos_form{
+    display: grid;
+}
+
+.label{
+    margin-top: 20px;
+}
+
+.input_img img{
+    padding-left: 75px;
+}
+
+
+.button button{
+    width: 328px;
+    height: 39px;
+    background: #7740ED;
+    border: none;
+    border-radius: 10px;
+    font-size: 14px;
+    color: #F1F1F1;
+    margin-top: 20px;
+}
+
+.box{
+    width: 328px;
+    height: 62px;
+    
+    background: #D9D9D9;
+    border-radius: 10px;
+    
+    display: flex;
+
+    margin-top: 15px;
+}
+
+.box input{
+    margin-left: 15px;
+    margin-top: -20px;
+}
+
+.box h3{
+    font-size: 14px;
+    margin-top: 12px;
+margin-left: 18px;
+}
+
+.box h4{
+    font-size: 12px;
+    padding-left: 18px;
+    padding-top: 5px;
+    
+}
+
+.icon{
+    padding-left: 125px;
+    padding-top: 19px;
+}
+
+.items{
+    margin-top: 15px;
+}
+
+.nome_tachado{
+    text-decoration: line-through;
+}
+
+.barra_progresso{
+    margin-top: 35px;
+
+    width: 328px;
+    height: 32px;
+
+    background: #D9D9D9;
+    border-radius: 10px;
+}
+
+.parte_concluida{
+    width: 189px;
+    height: 32px;
+    background: #FFDB21;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.parte_concluida h4{
+    font-size: 12px;
+    padding-top: 9px;
+    padding-left: 14px;
+}
