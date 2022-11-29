@@ -31,17 +31,13 @@
     font-size: 12px;
 }
 
-.formulario{
-
-}
-
 .input{
     border: none;
 }
 
 .input_img{
     margin-top: 15px;
-    width: 328px;
+    width: 313px;
     height: 39px;
     align-items: center;
     display: flex;
@@ -65,7 +61,7 @@
 }
 
 .input_img img{
-    padding-left: 75px;
+    padding-left: 63px;
 }
 
 
